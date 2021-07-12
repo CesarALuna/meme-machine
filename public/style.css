@@ -15,12 +15,12 @@ header {
   background: -webkit-linear-gradient(
     to right,
     #2a0845,
-    #6441a5
+    #17b09b
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
     #2a0845,
-    #6441a5
+    #17b09b
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
@@ -32,7 +32,7 @@ header > img {
 header > p {
   font-family: VT323, monospace;
   color: whitesmoke;
-  font-size: 50px;
+  font-size: 85px;
   margin-left: 60px;
 }
 
@@ -54,8 +54,8 @@ header > p {
   transform: translateX(-50%);
   margin: 15px 0;
   padding: 0 5px;
-  font-family: impact, sans-serif;
-  font-size: 2em;
+  font-family: impact, 'Oswald', sans-serif;
+  font-size: 4em;
   text-transform: uppercase;
   color: white;
   letter-spacing: 1px;
